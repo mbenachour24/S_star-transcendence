@@ -1,0 +1,14 @@
+None: Lyapunov Exponent = -0.43839962866882254
+Logarithmic: Lyapunov Exponent = -0.3809628882634594
+Exponential Decay: Lyapunov Exponent = -0.13031950187556043
+Sinusoidal Perturbation: Lyapunov Exponent = -0.2950486815377966
+Quadratic Growth: Lyapunov Exponent = -0.5487487058766668
+Inverse Decay: Lyapunov Exponent = -0.1614206946904766
+Hyperbolic Perturbation: Lyapunov Exponent = -0.3231073666789759
+Cosine Influence: Lyapunov Exponent = -0.1321164854947802
+Sine-Exponential Mix: Lyapunov Exponent = -0.05438312378065028
+Fractional Root: Lyapunov Exponent = -0.37709337452729536
+Piecewise Adjustment: Lyapunov Exponent = -0.02888761495915115
+Log-Sine Coupling: Lyapunov Exponent = -0.43680626635229414
+Cubic Perturbation: Lyapunov Exponent = -0.5481008867118778
+Random Noise: Lyapunov Exponent = -0.3564916664440969
