@@ -2,9 +2,7 @@
 
 **A computational, mathematical, and visual investigation of the transcendental invariant:**
 
-\[
-S^* = \lim_{n \to \infty} \left( \sin(S_n) + \cos(S_n) \right)
-\]
+`S* = limₙ→∞ ( sin(Sₙ) + cos(Sₙ) )`
 
 ---
 
